@@ -1,0 +1,6 @@
+.btn--login {
+    padding: .7rem 3rem;
+    background-color: $color-dark-primary-1;
+    color: $color-white;
+    @include link();
+}
